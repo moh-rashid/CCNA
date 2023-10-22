@@ -1,9 +1,9 @@
 <?php
 
 $DATABASE_HOST = 'localhost';
-$DATABASE_USER = 'W01400251';
-$DATABASE_PASS = 'Mohammedcs!';
-$DATABASE_NAME = 'W01400251';
+$DATABASE_USER = '';
+$DATABASE_PASS = '';
+$DATABASE_NAME = '';
 
 // try to connect to database
 $con = mysqli_connect($DATABASE_HOST, $DATABASE_USER, $DATABASE_PASS, $DATABASE_NAME);
